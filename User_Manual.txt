@@ -1,0 +1,59 @@
+------------------------------------------------------( Upro :: User_Manual)-----------------------------------------------------
+
+1.] Programmer's name : Ujjawal Panchal
+
+2.] Date of Documentation : 06/01/2014
+
+3.] Development date : 29/11/2014
+
+4.] Development time : 12:54 AM
+
+5.] Compiler Used : Code::Blocks 13.12 MinGW
+
+6.] Version : Upro 1.0
+
+7.] Digital Sign : UM
+
+---------------------------------------------( Upro :: Abstract_Page)----------------------------------------------------------
+Description :
+Upro is an closed source free program produced , planned , programmed and used by the above mentioned programmer.
+Purpose :
+This a multipurpose program which will be updated according to user demand or programmers ideas.
+Process:
+
+1.] The Program starts with an opening animation along with which it loads the other background animations and functions.
+
+2.] After which it loads menu animation and also displays the containing functions.
+Please note : There is no need to type the whole name of the function. for example ,
+to access calculator the user can use the shortcut calc. & to access c++ quiz , the user can type quiz moreover for Bill Creator
+user will have to use billing option.Rest of the steps to follow are also given in Step 4.
+
+3.] All other processes will be guided by the program itself !
+
+4.] Ways to access :
+                   1.>Calculator : The shortest way to access is to enter calc
+                   2.>C++ quiz : The shortest way to access is to enter quiz
+                   3.>Crypto : The shortest way to access is to enter crypto
+                   4.>Geodetails : The shortest way to access is to enter geo or Geo
+
+---------------------------------( Upro :: Prereruirements_Page)-----------------------------------------------------------------
+
+1.] you must have 500 MB RAM.
+2.] you must have installed a GCC compiler to see the code(Only for school).
+3.] you must have 3.06 MB (32,18,343 bytes) of free space for the files.
+4.] you must have a Monitor to see the result and Audio Output device to listen he sounds.
+5.] you must have installed the Upro.h header file to run the output. the details or which are provided in the step 6.
+6.] Instructions to install the header file :
+                                            1.> Go to your compilers Directory minGW if Code::Blocks.
+                                            2.> Search include folder
+                                            3.> Mark the address
+                                            4.> Copy the header files and paste them to the compilers include folder.
+
+---------------------------------( Upro :: Version_&_Update_Page)-----------------------------------------------------------------
+
+V:1.0
+Dig_sign: UM
+using namespace standards
+next Update is planned till : 12 January 2016
+
+---------------------------------( Upro :: End_Of_Manual )------------------------------------------------------------------------
